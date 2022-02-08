@@ -1,0 +1,40 @@
+
+  .paper{
+            
+           background-color: #5daae0;
+            width: 4vw;
+            height: 100vh;
+            text-align: center;
+            overflow: visible;
+            box-shadow: 0.5vw 0.2vw 1.2vh #00000029;
+            position: absolute;
+            top:0vh
+  }
+  
+  .bar{
+    position: absolute;
+    top: 2vh;
+    left: 0.75vw;
+    width: 2.5vw;
+    height: 4.5vh;
+  }
+
+  .button{
+    background-color: #2d4250;
+    border: none;
+    border-radius: 3vh;
+    width: 6vw;
+    height: 4.5vh;
+    font-weight: 2;
+    font-size: calc(0.75vh + 0.75vw);
+    color: white;
+  }
+  
+  .paperTrans {
+    border-radius: 0vh;
+    width: 25vw;
+    height: 100vh;
+    position: absolute;
+    outline: none;
+    background-color: #5daae0;
+  }
